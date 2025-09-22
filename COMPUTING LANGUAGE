@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Computer Languages</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #FAF9F6;
+margin: 0;
+padding: 0;
+}
+.language {
+background-color: #fff;
+border-radius: 8px;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+margin: 20px auto;
+padding: 20px;
+max-width: 1000px;
+border-left: 4px solid #4285f4;
+color: #333;
+}
+.language.python {
+border-left: 4px solid #888888;
+}
+.language.c {
+border-left: 4px solid #addbe6;
+}
+.language.java {
+border-left: 4px solid #f4b400;
+}
+.language.javascript {
+border-left: 4px solid #f5a623;
+}
+h2 {
+text-align: left;
+
+color: #2c3e50;
+}
+a {
+color: #4285f4;
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+marquee {
+background-color: #cce5ff;
+padding: 15px;
+border-radius: 10px;
+color: #004080;
+font-size: 28px;
+font-weight: bold;
+margin-bottom: 20px;
+display: block;
+}
+</style>
+</head>
+<body>
+<!-- Marquee effect for heading -->
+<marquee behavior="scroll" direction="left" scrollamount="18">
+Popular Computer Languages
+</marquee>
+<div class="language python">
+<h2>Python</h2>
+<p>Python is widely used in web development, automation, and machine learning.</p>
+<a href="https://www.w3schools.com/python/default.asp" target="_blank">Learn more about
+Python</a>
+</div>
+<div class="C Language">
+<h2>C Language</h2>
+<p>C is a powerful general-purpose programming language used for developing operating
+systems and compilers.</p>
+
+<a href="https://www.w3schools.com/c/index.php" target="_blank">Learn more about C
+Language.</a> </div>
+
+<div class="language java">
+<h2>Java</h2>
+<p>Java is a popular programming language, known for its portability and used in enterprise
+applications.</p>
+<a href="https://www.w3schools.com/java/default.asp" target="_blank">Learn more about
+Java</a>
+</div>
+<div class="language javascript">
+<h2>JavaScript</h2>
+<p>JavaScript is used to create interactive effects within web browsers and is essential for
+front-end development.</p>
+<a href="https://www.w3schools.com/javascript/default.asp" target="_blank">Learn more
+about JavaScript</a>
+</div>
+</body>
+</html>
