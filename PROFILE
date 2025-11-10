@@ -94,7 +94,7 @@ Yash chandak is a student in symbiosis institute of technology (SIT) Nagpur.
 <div class="contact">
 <div class="section-title">Contact Info</div>
 <p>Email: yash.chandak.batch2025@sitnagpur.siu.edu.in</p>
-<div><a href="https://linkedin.com/in/arnav-nagdeote" class="contact-link"
+<div><a href="https://linkedin.com/in/yash-chandak-89a176389" class="contact-link"
 target="_blank">LinkedIn Profile</a></div>
 </div>
 </div>
